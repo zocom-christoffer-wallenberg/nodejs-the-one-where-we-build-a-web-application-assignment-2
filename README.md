@@ -24,6 +24,7 @@ Du ska i denna uppgift bygga en front-end för din e-handelsida och anropa ditt 
 * Vettiga namn för variabler och funktioner används.
 * Att du använder alla dina API endpoints som du skapade i förra inlämningsuppgiften.
 * Att du använder **fetch**.
+* Att din webbserver servar din HTML, CSS och JS
 
 **För Väl Godkänt krävs**
 * Allt i Godkänt.
